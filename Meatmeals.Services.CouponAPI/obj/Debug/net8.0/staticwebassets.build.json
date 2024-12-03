@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "d4HNiXH65OSkS+vZKzBh/xP5lYEZQ2ULQYXmcaAzyWA=",
+  "Source": "Meatmeals.Services.CouponAPI",
+  "BasePath": "_content/Meatmeals.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

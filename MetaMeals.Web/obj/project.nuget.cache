@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "34WzsYBfH0g=",
+  "success": true,
+  "projectFilePath": "D:\\Microservices_Prac\\.Net_Microservices\\FoodOrdering\\MetaMeals.Web\\MetaMeals.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vikas.Seedella\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Meatmeals.Services.CouponAPI\\Meatmeals.Services.CouponAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MetaMeals.Web\\MetaMeals.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

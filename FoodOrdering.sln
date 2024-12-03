@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{7268DCEB-F09B-4CCA-AD2A-180A29072382}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{F86F2C9F-4343-4320-A2C1-1550B552AE05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{A4133890-6CD3-4A4A-BD5A-2B5FB3A3993F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{EA6E39D3-75C5-42FD-B1B1-78806DD9AAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meatmeals.Services.CouponAPI", "Meatmeals.Services.CouponAPI\Meatmeals.Services.CouponAPI.csproj", "{6F13CEDC-7C37-4DFA-BD77-75BB2520D811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMeals.Web", "MetaMeals.Web\MetaMeals.Web.csproj", "{5CF02D4E-11A6-4382-81C2-91A168B95BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F13CEDC-7C37-4DFA-BD77-75BB2520D811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F13CEDC-7C37-4DFA-BD77-75BB2520D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F13CEDC-7C37-4DFA-BD77-75BB2520D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F13CEDC-7C37-4DFA-BD77-75BB2520D811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF02D4E-11A6-4382-81C2-91A168B95BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF02D4E-11A6-4382-81C2-91A168B95BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF02D4E-11A6-4382-81C2-91A168B95BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF02D4E-11A6-4382-81C2-91A168B95BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F13CEDC-7C37-4DFA-BD77-75BB2520D811} = {EA6E39D3-75C5-42FD-B1B1-78806DD9AAB1}
+		{5CF02D4E-11A6-4382-81C2-91A168B95BF7} = {7268DCEB-F09B-4CCA-AD2A-180A29072382}
+	EndGlobalSection
+EndGlobal
